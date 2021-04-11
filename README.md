@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=utkxxrsh&bg_color=30,e96443,904e95&title_color=8E2DE2&text_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=utkxxrsh&bg_color=00,e96443,904e95&title_color=8E2DE2&text_color=000000">
 ## Top Used Languages
 (https://github-readme-stats.vercel.app/api/top-langs/?username=utkxxrsh&theme=radical&title_color=8E2DE2&text_color=fff)
