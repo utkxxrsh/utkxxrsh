@@ -41,5 +41,4 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://www.linkedin.com/in/utkxxrsh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-
-
+<a href="https://www.instagram.com/utkxxrsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
