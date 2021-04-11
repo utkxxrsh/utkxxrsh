@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/utkxxrsh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Utkarsh Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/utkxxrsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Utkarsh Insta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/utkarshdeep1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh HackerRank" height="30" width="40" /></a>
+<a href="https://discord.com/channels/830861475521495051/830861476004233238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Utkarsh's Discord Server" height="30" width="40" /></a>
