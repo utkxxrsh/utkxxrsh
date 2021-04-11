@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=utkxxrsh&theme=radical&title_color=8E2DE2&text_color=ffffff">
 
 ## Top Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxxrsh&theme=radical&title_color=8E2DE2&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxxrsh&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)>
 
 ## Languages and Tools:
 
