@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=utkxxrsh&theme=radical&title_color=8E2DE2&text_color=ffffff">
+[![Utarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkxxrsh&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkxxrsh&show_icons=true&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)>
