@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png?20190118024747" />
-<img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png" />
+<img align="left" alt="Solidity" width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FSolidity%2FSolidity-Logo.wine.png&tbnid=L6_yDNrJgQGHaM&vet=12ahUKEwiBnIn8tpX_AhUgCLcAHRSoDTIQMygBegUIARDCAQ..i&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FSolidity&docid=xqN1LPTMJgtgSM&w=3000&h=2000&q=solidity%20logo&client=safari&ved=2ahUKEwiBnIn8tpX_AhUgCLcAHRSoDTIQMygBegUIARDCAQ)" />
 <br>
 <br>
 
